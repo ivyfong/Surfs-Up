@@ -1,4 +1,4 @@
-# SurfsUp
+# Surfs Up
 
 ## **Objective:**
 The objective of this project is to use Python and SQLAlchemy to analyze climate data for Honolulu, Hawaii stored in an SQLite database. The following analyses were completed:
