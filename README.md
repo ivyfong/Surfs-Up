@@ -15,7 +15,7 @@ A Flask API was created based on the first 2 analyses completed.
 1. Python -  SQLAlchemy, Flask, Pandas, Numpy
 2. HTML
 
-## **Screenshots:**
+## **Screenshots (Graphs):**
 ![graph1.png](images/graph1_precipitation.png)
 ![graph2.png](images/graph2_temperature.png)
 ![graph3.png](images/graph3_trip_av_temp.png)
