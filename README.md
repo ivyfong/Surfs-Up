@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## **Objective:**
-The objective of this project is to use Python and SQLAlchemy to analyze climate data for Honolulu, Hawaii stored in an SQLite database. The following analyses were completed:
+The objective of this project is to use Python and SQLAlchemy to analyze climate data for Honolulu, Hawaii stored in a SQLite database. The following analyses were completed:
 
 * **Precipitation Analysis:** Analysis of the last 12 months of precipitation data.
 * **Station Analysis:** Analysis of the number of temperature observations taken at each station.
@@ -12,7 +12,7 @@ The objective of this project is to use Python and SQLAlchemy to analyze climate
 A Flask API was created based on the first 2 analyses completed. 
 
 ## **Tools:**
-1. Python -  SQLAlchemy, Flask, Pandas, Numpy
+1. Python -  SQLAlchemy, Flask, Pandas, Matplotlib, Numpy, and Scipy
 2. HTML
 
 ## **Screenshots (Graphs):**
