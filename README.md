@@ -12,7 +12,7 @@ The objective of this project is to use Python and SQLAlchemy to analyze climate
 A Flask API was created based on the first 2 analyses completed. 
 
 ## **Tools:**
-1. Python -  SQLAlchemy, Flask, Pandas, Matplotlib, Numpy, and Scipy
+1. Python -  SQLAlchemy, Flask, Pandas, Matplotlib, Numpy, Scipy
 2. HTML
 
 ## **Screenshots (Graphs):**
